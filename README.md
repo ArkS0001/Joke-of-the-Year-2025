@@ -8,3 +8,7 @@ fun stuff
 ![1735871107129](https://github.com/user-attachments/assets/28dd9752-f483-4820-a634-d8718f3ee3e5)
 # 4
 ![1736881172441](https://github.com/user-attachments/assets/a4adfae2-668c-4123-857e-196395dae476)
+# 5
+![1737199512630](https://github.com/user-attachments/assets/b6910091-7bb6-4ac2-b549-ea0f2f446d61)
+# 6
+![1737127062065](https://github.com/user-attachments/assets/257209ef-a612-4bef-86bc-c6139fbdf9bc)
