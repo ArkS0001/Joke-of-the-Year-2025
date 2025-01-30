@@ -12,3 +12,5 @@ fun stuff
 ![1737199512630](https://github.com/user-attachments/assets/b6910091-7bb6-4ac2-b549-ea0f2f446d61)
 # 6
 ![1737127062065](https://github.com/user-attachments/assets/257209ef-a612-4bef-86bc-c6139fbdf9bc)
+# 7
+![1738122373255](https://github.com/user-attachments/assets/7a65edad-d857-4038-b2cf-607b8256d49d)
